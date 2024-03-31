@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rishe
 - 👀 I’m an aspiring AI and ML engineer/researcher.
-- 🌱 I’m currently doing a course on data science.
 - 💞️ I’m not ready to collaborate yet.
 
 <!---
