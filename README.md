@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Rishe
-- 👀 I’m an aspiring AI and ML engineer/researcher.
-- 💞️ I’m not ready to collaborate yet.
+- 👋 Hi, I’m Rishe.
+- 👀 I’m a computer science student at IISc.
 
 <!---
 coder-r2/coder-r2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
